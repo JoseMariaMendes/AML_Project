@@ -1,0 +1,2 @@
+conjunto de dados misto - converter todas para categoricas ou continuas
+preencher missing values(aoresentar no estudo) 

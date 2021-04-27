@@ -1,0 +1,8 @@
+Artigo - https://www.nature.com/articles/s41467-020-18684-2
+
+Dataset - https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset
+
+models:
+	1 - LogisticRegression - https://www.kaggle.com/neisha/heart-disease-prediction-using-logistic-regression
+	2 - SVM - https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle
+	3 - Gradient Boosted Desision Tree - https://towardsdatascience.com/machine-learning-part-18-boosting-algorithms-gradient-boosting-in-python-ef5ae6965be4
